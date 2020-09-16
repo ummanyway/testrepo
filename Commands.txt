@@ -1,0 +1,140 @@
+https://docs.microsoft.com/en-us/powershell/azure/get-started-azureps?view=azps-4.5.0
+
+CLI: 
+https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest
+
+
+https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-3.8.0
+
+Install-Module -Name Az -AllowClobber
+
+Anamika Mishra
+DMOC Code: LQYG-QFZC-AVXQ-ZVZF | Azure Pass: Q2C0CNQHP6MODKWR18
+11-Sep-20
+
+link to create new account:
+
+steps to redeem code:
+
+https://www.microsoftazurepass.com/Home/HowTo?Length=5
+
+https://www.skillpipe.com/#/account/login
+
+https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-3.8.0
+
+https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-3.8.0
+
+Install-Module -Name Az -AllowClobber
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits
+
+https://azure.microsoft.com/en-us/
+
+https://azure.microsoft.com/en-us/resources/templates/101-vm-simple-windows/
+
+https://www.microsoftazuresponsorships.com/balance#
+
+LAB:
+
+https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
+
+LAB Recordings:
+
+https://github.com/MicrosoftLearning/Lab-Demo-Recordings/blob/master/AZ-104.md
+
+VM Sizing:
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/sizes
+
+Install-WindowsFeature -name Web-Server -IncludeManagementTools
+
+1st Day Recording for Microsoft Azure Training:
+
+
+https://koenigsolutionsltd-my.sharepoint.com/:f:/g/personal/amit_maurya_koenig-solutions_com/Ei6IwrPHwTJBn8jv33Vs0NABsIkH6XA0VocGxF0E1WjVgA?e=2ynYRG
+
+2nd Day Recording for Azure Training:
+
+https://koenigsolutionsltd-my.sharepoint.com/:f:/g/personal/amit_maurya_koenig-solutions_com/Ei6IwrPHwTJBn8jv33Vs0NABsIkH6XA0VocGxF0E1WjVgA?e=OjNuVI
+
+Route Table Lab:
+
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-portal
+
+Firewall Lab:
+
+https://docs.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal
+
+Load Balancer Lab:
+
+https://docs.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-standard-manage-portal
+
+Application Gateway Lab:
+
+https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal
+
+https://docs.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile
+
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-multiple-policybased-rm-ps
+
+Azure firewall:
+
+https://azure.microsoft.com/en-us/blog/azure-firewall-and-network-virtual-appliances/
+
+VPN (VNet to VNet)
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal
+
+VPN (Site to Site)
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal
+    
+https://azure.microsoft.com/en-in/pricing/calculator/?&ef_id=EAIaIQobChMIpv_eqJCn6wIVnsEWBR1qYQjCEAAYASAAEgITv_D_BwE:G:s&OCID=AID2100054_SEM_EAIaIQobChMIpv_eqJCn6wIVnsEWBR1qYQjCEAAYASAAEgITv_D_BwE:G:s&dclid=CJDGm6qQp-sCFUoYaAodh4gErg
+Pricing Calculator | Microsoft AzureConfigure and estimate the costs for Azure products and features for your specific scenarios.azure.microsoft.com
+
+
+https://azure.microsoft.com/en-in/features/storage-explorer/
+
+Lab:
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies-portal
+
+Post the above lab , follow the below steps:
+
+After completing all steps in article follow these steps:
+
+1. Associate Subnet with Service Endpoint Policy:
+Go to associated VNet > Select Subnet > Click on desired subnet > under all settings there willm be an option of Service EndPoint > Select drop down > select Microsoft.Storage > underneath it there will be another drop down to select newly created Service EndPoint Policy > Select it
+2. Go to Storage account > select your newly created Storage account > Select Firewall and virtual Networks > select "selected networks > select "+Add Existing Vistual Network > select the associated Virtual and Network and Subnet
+3. Deploy a VM in associated in Subnet
+4. Take RDP of VM and install Azure Storage Explorer on it > use connection string in access key to associate Storage Account with Storage Explorer App
+5. Try to check whether you are able to see any uploaded file in container and File Share
+6. Come back to local machine (your laptop) > install Azure Storage Explorer > associatre same stoarge account using connection string > try to access any uploaded file in container and file share
+
+You may follow these steps before above steps:
+
+1. Cretae New resource Group
+
+2. create new storage account in same resource group
+
+3. create new virtual network with a subnet in same resource Group
+
+4. Then create service endpoint policy
+
+5. In definition associate newly created Storage account as resource
+
+#By default the creation time of any resource will not be captured.
+However, to tacle this issue, we can create a policy to make it mandatory to apply tag to each resource.
+In this way we can set a tag with creation date and later when ever required:
+You can go to your subscription -> resources -> Edit Columns
+You can see the  filter name “Tags”
+
+https://docs.microsoft.com/en-us/azure/backup/install-mars-agent
+
+https://vceplus.com/
+
+https://docs.microsoft.com/en-in/learn/certifications/exams/az-104
+
+
+
+
+
+ 
